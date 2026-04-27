@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=ezFjnM0AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jiawei-Ding-11?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
