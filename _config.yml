@@ -13,10 +13,10 @@ title                    : "Garvey Ding"
 title_separator          : "-"
 name                     : &name "Garvey Ding"
 description              : &description "Ph.D. student in integrated circuit science and engineering at IMECAS, University of Chinese Academy of Sciences"
-url                      : https://GarveyDDD.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://GarveyDing2002.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "GarveyDDD/GarveyDDD.github.io"
+repository               : "GarveyDing2002/GarveyDing2002.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "GarveyDDD"
+  github           : "GarveyDing2002"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
